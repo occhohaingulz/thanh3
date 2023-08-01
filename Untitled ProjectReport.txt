@@ -1,0 +1,33 @@
+Report created: 
+	8/1/2023	6:38:04 PM
+
+Project name: Untitled Project.aep
+
+Source files collected to: 
+	C:\Users\Administrator\Desktop\Logo 3D 5s
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	animation logo
+	
+Number of collected files:  1
+
+Size of collected files:  27 KB
+
+Collected source files: 
+	C:\Users\Administrator\Downloads\wee (1).png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Brightness & Contrast
+	
+Effect:  CC Light Sweep
+	
+Effect:  Drop Shadow
+	
+
